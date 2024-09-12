@@ -27,7 +27,7 @@ public class CSVImportToDatabaseTests {
 	        driver.get("http://your-application-url.com");   //url
 	    }
 	
-	//dinesh
+	
 	
 	 @AfterMethod
 	    public void tearDown() {
