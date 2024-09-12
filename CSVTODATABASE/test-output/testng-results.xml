@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T00:04:16 IST" name="Suite" finished-at="2024-09-13T00:04:16 IST" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T00:04:16 IST" name="Test" finished-at="2024-09-13T00:04:16 IST" duration-ms="69">
+      <class name="com.qa.tests.CSVImportToDatabaseTests">
+        <test-method signature="testValidCSVImport()[pri:0, instance:com.qa.tests.CSVImportToDatabaseTests@22ef9844]" started-at="2024-09-13T00:04:16 IST" name="testValidCSVImport" finished-at="2024-09-13T00:04:16 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidCSVImport -->
+      </class> <!-- com.qa.tests.CSVImportToDatabaseTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
