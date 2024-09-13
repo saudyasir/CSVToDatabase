@@ -5,3 +5,5 @@ src/test/java/com/qa/tests/CSVImportToDatabaseTests.java - Contains the differen
    
 src/main/resources - contains a valid csv
 1. Different csv files can be added in above path 
+
+Test script can be run ising the testNG xml file 'testng.xml'
